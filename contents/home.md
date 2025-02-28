@@ -5,10 +5,18 @@
 Currently working on a degree in Bachelor of Computer Science.
 
 #### Email
-To be place
+Not yet placed
 
 #### Education
-Southwestern Illinois College 2021-2023
+Southwestern Illinois College 2021-2024
+SIUE 2027 expected
 
-#### Research Interests
-Computer programming
+
+#### Skills
+C++
+Python
+HTML5
+Problem Solving
+Communication
+Microsoft Word/PowerPoint
+
