@@ -5,7 +5,7 @@
 Currently working on a degree in Bachelor of Computer Science.
 
 #### Email
-siue[at]dafdf.coms
+To be place
 
 #### Education
 Southwestern Illinois College 2021-2023
