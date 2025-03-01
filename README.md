@@ -17,11 +17,10 @@ This template supports LaTeX formula input. You can use `$...$` and `\(...\)` as
 
 
 ## Getting Start
-### 1. Fork this repository
-The repository name should be `<username>.github.io`, which will also be your website's URL.
 
 
-### 2. Edit page content
+
+### 1. Edit page content
 
 (1) Go to the folder where you want to store your project, and clone the new repository:
 ```
@@ -52,7 +51,7 @@ git push
 ```
 
 
-### 3. Enjoy
+### 2. Enjoy
 
 Fire up a browser and go to `https://<username>.github.io`
 
