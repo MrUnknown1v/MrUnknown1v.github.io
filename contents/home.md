@@ -5,10 +5,11 @@
 Currently working on a degree in Bachelor of Computer Science.
 
 #### Email
-Not yet placed
+Not yet placed 
 
 #### Education
-Southwestern Illinois College 2021-2024
+Southwestern Illinois College 2021-2024,
+
 SIUE 2027 expected
 
 
