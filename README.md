@@ -1,14 +1,8 @@
 
-
-![Github Forks](https://img.shields.io/github/forks/mrunknown1/mrunknown1.github.io?style=flat)
-![Github Stars](https://img.shields.io/github/stars/mrunknown1/mrunknown1.github.io?style=flat)
-![License](https://img.shields.io/github/license/mrunknown1/mrunknown1.github.io)
-![Last Commit](https://img.shields.io/github/last-commit/mrunknown1/mrunknown1.github.iO)
-
 # A simple Github Pages template for academic personal website.
 
 ## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/mrunknown1/mrunknown1.github.io/main/screenshot_full.png)]( https://mrunknown1v.github.io/)
+![Screenshot of the Website](screenshot_full.png)
 
 
 ## Introduction
