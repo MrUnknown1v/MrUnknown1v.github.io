@@ -5,12 +5,16 @@ Currently working on a degree in Bachelor of Computer Science. Working towards a
 
 #### Education
 ![Swic logo](static/assets/img/Swic.jpg)
+
+
 SIUE 2027 expected
 Southwestern Illinois College 2021-2024,
 Associate In Science
 
 
 ![Siue logo](static/assets/img/Siue.jpg)
+
+
 SIUE 2027 expected
 
 Notable classes:
