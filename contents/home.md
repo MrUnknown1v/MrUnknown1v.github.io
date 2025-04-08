@@ -3,7 +3,7 @@
 [![MrUnknown1v](https://img.shields.io/badge/MrUnknown1v-github-blue?logo=github)](https://github.com/MrUnknown1v)
 
 
-Currently working on a degree in Bachelor of Computer Science. Working towards a Computer Programming or Game Design Career. Keen interest in the IT field with strong ambitions.
+- Currently working on a degree in Bachelor of Computer Science. Working towards a Computer Programming or Game Design Career. Keen interest in the IT field with strong ambitions.
 
 #### Education
 ![Swic logo](static/assets/img/Swic.jpg)
@@ -17,7 +17,7 @@ Currently working on a degree in Bachelor of Computer Science. Working towards a
 ![Siue logo](static/assets/img/Siue.jpg)
 
 
-- SIUE 2027 expected
+- SIUE 2027 expected graduation
 
 - Notable classes:
 - Software Engineering
