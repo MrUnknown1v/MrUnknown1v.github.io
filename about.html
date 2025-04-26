@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="Academic Webpage" />
     <meta name="author" content="MrUnknown1v" />
-    <title id="title"></title>
+    <title>About Me</title>
 
     <!-- Icon -->
     <link rel="icon" type="image/x-icon" href="static/assets/favicon.ico" />
@@ -39,32 +39,27 @@
 
     <!-- Mathematics -->
     <script>
-        // See https://docs.mathjax.org/en/latest/index.html for more details.
         MathJax = {
             tex: {
-                packages: {},              // extensions to use
-                inlineMath: [              // start/end delimiter pairs for in-line math
+                packages: {},             
+                inlineMath: [
                     ['$', '$'],
                     ['\\(', '\\)']
                 ],
-                displayMath: [             // start/end delimiter pairs for display math
+                displayMath: [
                     ['$$', '$$'],
                     ['\\[', '\\]']
                 ],
-                processEscapes: false,      // use \$ to produce a literal dollar sign
-                processEnvironments: true, // process \begin{xxx}...\end{xxx} outside math mode
-                processRefs: true,         // process \ref{...} outside of math mode
-                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,    // pattern for recognizing numbers
-                tags: 'all',              // or 'ams' or 'all'
-                tagSide: 'right',          // side for \tag macros
-                tagIndent: '0.8em',        // amount to indent tags
-                useLabelIds: true,         // use label name rather than tag for ids
-                maxMacros: 10000,          // maximum number of macro substitutions per expression
-                maxBuffer: 5 * 1024,       // maximum size for the internal TeX string (5K)
-                // baseURL:                   // URL for use with links to tags (when there is a <base> tag in effect)
-                // (document.getElementsByTagName('base').length === 0) ? '' : String(document.location).replace(/#.*$/, ''),
-                formatError:               // function called when TeX syntax errors occur
-                    (jax, err) => jax.formatError(err)
+                processEscapes: false,     
+                processEnvironments: true, 
+                processRefs: true,         
+                digits: /^(?:[0-9]+(?:\{,\}[0-9]{3})*(?:\.[0-9]*)?|\.[0-9]+)/,
+                tags: 'all',              
+                tagSide: 'right',          
+                tagIndent: '0.8em',        
+                useLabelIds: true,         
+                maxMacros: 10000,          
+                maxBuffer: 5 * 1024,       
             }
         };
     </script>
@@ -82,7 +77,6 @@
     <nav class="header navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
             <a id="page-top-title" class="navbar-brand fw-bold" href="#page-top"></a>
-            <!-- <a href="#page-top"><img src="static/assets/img/CUMT_LOGO.svg" style="width: 11rem;"></a> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                 MENU
@@ -91,15 +85,14 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#page-top">HOME</a>
+                        <a class="nav-link me-lg-3" href="index.html#page-top">HOME</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#expskills">SKILLS</a>
+                        <a class="nav-link me-lg-3" href="index.html#expskills">SKILLS</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-lg-3" href="#awards">AWARDS</a>
+                        <a class="nav-link me-lg-3" href="index.html#awards">AWARDS</a>
                     </li>
-                    <!-- New About Me Tab -->
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="about.html">ABOUT ME</a>
                     </li>
@@ -119,7 +112,7 @@
     <section class="top-section" style="background-image: url('static/assets/img/background.jpeg');">
         <div class="top-section-content">
             <div class="container px-5">
-                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt"></h2>
+                <h2 id="top-section-bg-text" class="text-white display-3 lh-1 font-alt">About Me</h2>
             </div>
         </div>
     </section>
@@ -133,45 +126,24 @@
     </div>
     <!-- Photo -->
     
-    <!-- Home -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="home">
+    <!-- About Me Section -->
+    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="about-me">
         <div class="container px-5">
             <header>
-                <h2 id="home-subtitle"> </h2>
-                <!-- <span class="bi bi-list"></span> -->
+                <h2 id="about-me-subtitle">About Me</h2>
             </header>
-            <div class="main-body" id="home-md"></div>
+            <div class="main-body" id="about-me-md">
+                <p>Hello there my name is Maximus, I'm working towards a degree  in the Computer Science field, and want to work on programming. I have a dog name Blu, he's a chihuahua/weiner. He's pretty old</p>
+
+                <img src="static/assets/img/dog.jpg" alt="My dog"width="200" height="150">
+
+                <p>I also do a few things, my hobbies are hiking, games, and writing. I like writing poetry. I also love reading, my favorite book is A Crack in the Sky, by Mark Peter Hughes</p>
+                <p>I also want to work on as a side hobby as for game design, It might be tough but most good things in life take effort, including this site</p>
+                <p> that's all for now until i can get this website running like a professional and i can get some coffee</p>
+            </div>
         </div>
     </section>
-    <!-- Home -->
-
-    <!-- Skills-->
-    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="expskills">
-        <div class="container px-5">
-            <header>
-                <h2 id="expskills-subtitle"><i class="bi bi-file-text-fill"></i>&nbsp;SKILLS</h2>
-            </header>
-            <div class="main-body" id="expskills-md"></div>
-
-        </div>
-    </section>
-    <!-- Skills-->
-
-    <!-- Awards -->
-    <section class="bg-gradient-primary-to-secondary-light mt5 md5" id="awards">
-        <div class="container px-5">
-            <header>
-                <h2 id="awards-subtitle"><i class="bi bi-award-fill"></i>AWARDS </h2>
-            </header>
-            <div class="main-body" id="awards-md"></div>
-
-        </div>
-    </section>
-    <!-- Awards -->
-
-
-    
-
+    <!-- About Me Section -->
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
