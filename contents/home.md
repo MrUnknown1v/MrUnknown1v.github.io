@@ -15,21 +15,36 @@ If you wish to learn more about me, go to my About tab.
 If you want to contact me, feel free to go to my Contact tab.
 
 #### Education
-![Swic logo](static/assets/img/Swic.jpg)
+<table>
+    <tr>
+        <td>
+            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="300" height="300">
+        </td>
+        <td>
+            <ul>
+                <li>Southwestern Illinois College 2021-2024</li>
+                <li>Associate In Science</li>
+            </ul>
+        </td>
+    </tr>
+<table>
 
-
-
-- Southwestern Illinois College 2021-2024,
-- Associate In Science
-
-
-![Siue logo](static/assets/img/Siue.jpg)
-
-
-- SIUE 2027 expected graduation
+<table>
+    <tr>
+        <td>
+            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="300" height="300">
+        </td>
+        <td>
+            <ul>
+                <li>SIUE 2027 expected graduation</li>
+                <li></li>
+            </ul>
+        </td>
+    </tr>
+<table>
 
 - Notable classes:
-- Software Engineering
+    - Software Engineering
 
 If you want to learn about some projects I've done, feel free to go to my Projects Tab.
 
