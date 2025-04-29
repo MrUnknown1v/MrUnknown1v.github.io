@@ -19,7 +19,7 @@ If you want to contact me, feel free to go to my Contact tab.
 <table>
     <tr>
         <td>
-            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="150" height="150">
+            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="100" height="100">
         </td>
         <td>
             <ul>
@@ -32,7 +32,7 @@ If you want to contact me, feel free to go to my Contact tab.
 <table>
     <tr>
         <td>
-            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="150" height="150">
+            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="100" height="100">
         </td>
         <td>
             <ul>
