@@ -15,6 +15,20 @@ If you wish to learn more about me, go to my About tab.
 If you want to contact me, feel free to go to my Contact tab.
 
 #### Education
+
+<table>
+    <tr>
+        <td>
+            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="300" height="300">
+        </td>
+        <td>
+            <ul>
+                <li>SIUE 2027 expected graduation</li>
+            </ul>
+        </td>
+    </tr>
+<table>
+
 <table>
     <tr>
         <td>
@@ -29,18 +43,6 @@ If you want to contact me, feel free to go to my Contact tab.
     </tr>
 <table>
 
-<table>
-    <tr>
-        <td>
-            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="300" height="300">
-        </td>
-        <td>
-            <ul>
-                <li>SIUE 2027 expected graduation</li>
-            </ul>
-        </td>
-    </tr>
-<table>
 
 - Notable classes:
     - Software Engineering
