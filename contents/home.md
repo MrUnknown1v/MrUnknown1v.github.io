@@ -37,7 +37,6 @@ If you want to contact me, feel free to go to my Contact tab.
         <td>
             <ul>
                 <li>SIUE 2027 expected graduation</li>
-                <li></li>
             </ul>
         </td>
     </tr>
