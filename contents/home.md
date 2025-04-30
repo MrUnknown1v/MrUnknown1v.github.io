@@ -19,7 +19,7 @@ If you want to contact me, feel free to go to my Contact tab.
 <table>
     <tr>
         <td>
-            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="200" height="200">
+            <img src ="static/assets/img/Siue.jpg" alt="Siue Logo" width="170" height="170s">
         </td>
         <td>
             <ul>
@@ -33,11 +33,10 @@ If you want to contact me, feel free to go to my Contact tab.
 
 
 
-
 <table>
     <tr>
         <td>
-            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="200" height="200">
+            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="170" height="1700">
         </td>
         <td>
             <ul>
@@ -51,6 +50,7 @@ If you want to contact me, feel free to go to my Contact tab.
 
 - Notable classes:
     - Software Engineering
+    - Calculus
 
 If you want to learn about some projects I've done, feel free to go to my Projects Tab.
 
