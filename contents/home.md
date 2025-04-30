@@ -36,7 +36,7 @@ If you want to contact me, feel free to go to my Contact tab.
 <table>
     <tr>
         <td>
-            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="170" height="1700">
+            <img src ="static/assets/img/Swic.jpg" alt="Swic Logo" width="170" height="170">
         </td>
         <td>
             <ul>
