@@ -48,7 +48,7 @@ If you want to contact me, feel free to go to my Contact tab.
 <table>
 
 
-- Notable classes:
+- Notable classes done at SIUE:
     - Software Engineering
     - Calculus
 
